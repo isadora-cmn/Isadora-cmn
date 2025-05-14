@@ -6,7 +6,7 @@ Me chamo Isadora Caroline Militão Neves e sou formada no ensino médio com curs
 
 ---
 
-### 🤖 Linguagens  e  Tecnologias
+### 🤖 Linguagens  e  Tecnologias.
 
 <img 
     align="left" 
