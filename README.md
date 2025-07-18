@@ -3,7 +3,7 @@
 <p align="center">
  Estudante de Computação focada em backend ,dados e IA.</p>
  <p align="center">
-Construindo o futuro com código, estudo e propósito.
+Construindo meu futuro com código, estudo e propósito.
 </p>
 
 ---
