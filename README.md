@@ -46,8 +46,6 @@ Construindo meu futuro com código, estudo e propósito.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40px"/>
 </p>
 
-### 📊 My GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isadora-cmn&layout=compact&theme=radical)
 
 <div align="center">
   <img src="https://imgur.com/zeuHIk9.gif" width="150">
