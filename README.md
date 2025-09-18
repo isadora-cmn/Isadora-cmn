@@ -39,7 +39,7 @@ Construindo meu futuro com código, estudo e propósito.
 ## 🛠️ Ferramentas de desenvolvimento
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40px"/>
+  <img width="40" height="40" src="https://img.icons8.com/glyph-neue/64/FFFFFF/github.png" alt="github"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" title="Insomnia" alt="Insomnia" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40px"/>
