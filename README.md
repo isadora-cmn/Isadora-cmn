@@ -8,7 +8,7 @@ Construindo meu futuro com código, estudo e propósito.
 
 ---
 
-### 👩‍💻 Sobre mim
+###  Sobre mim
 
 - 🖥️ Técnica em **Desenvolvimento de Sistemas** pelo SENAI  
 - 🎓 Graduanda em **Ciência da Computação (Estácio)** e **Ciência de Dados (UNIVESP)**  
@@ -16,7 +16,7 @@ Construindo meu futuro com código, estudo e propósito.
 - 🧠 Apaixonada por aprendizado contínuo.  
 
 
-## 💻 Tecnologias e linguagens
+##  Tecnologias e linguagens
  <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40px"/>
@@ -29,7 +29,7 @@ Construindo meu futuro com código, estudo e propósito.
 </p>
 
 
-## 🚀 Frameworks e bibliotecas
+##  Frameworks e bibliotecas
  <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40px"/>
@@ -37,7 +37,7 @@ Construindo meu futuro com código, estudo e propósito.
 </p>
 
 
-## 🛠️ Ferramentas de desenvolvimento
+##  Ferramentas de desenvolvimento
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40px"/>
   <img width="40" height="40" src="https://img.icons8.com/glyph-neue/64/FFFFFF/github.png" alt="github"/>
