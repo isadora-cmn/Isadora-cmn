@@ -12,7 +12,7 @@ Construindo meu futuro com código, estudo e propósito.
 
 - 🖥️ Técnica em **Desenvolvimento de Sistemas** pelo SENAI  
 - 🎓 Graduanda em **Ciência da Computação (Estácio)** e **Ciência de Dados (UNIVESP)**  
-- 📚 Estudando **C#/.NET**, **AWS** e **Data Science** .
+- 📚 Estudando **AWS** e **Data Science** .
 - 🧠 Apaixonada por aprendizado contínuo.  
 
 
