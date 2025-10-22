@@ -45,6 +45,8 @@ Construindo meu futuro com código, estudo e propósito.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40px"/>
+  <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" title="Excel" alt="Excel" width="40px"/>
+ <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" title="Power BI" alt="Power BI" width="40px"/>
 </p>
 
 
