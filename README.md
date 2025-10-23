@@ -9,10 +9,10 @@
 
 ###  Sobre mim
 
-- 🖥️ Técnica em **Desenvolvimento de Sistemas** pelo SENAI  
-- 🎓 Graduanda em **Ciência da Computação (Estácio)** e **Ciência de Dados (UNIVESP)**  
-- 📚 Estudando **AWS** e **Data Science** .
-- 🧠 Apaixonada por aprendizado contínuo.  
+-  Técnica em **Desenvolvimento de Sistemas** pelo SENAI  
+-  Graduanda em **Ciência da Computação (Estácio)** e **Ciência de Dados (UNIVESP)**  
+-  Estudando **AWS** e **Data Science** .
+-  Apaixonada por aprendizado contínuo.  
 
 
 ##  Tecnologias e linguagens
