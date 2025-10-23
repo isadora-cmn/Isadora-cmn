@@ -1,10 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=blur&height=300&color=ff69b4&text=Olá,%20eu%20sou%20a%20Isadora!&section=header&fontAlign=53&animation=blink&fontSize=40&fontColor=ffffff"/>
 
 <p align="center">
- Estudante de Computação focada em dados e backend </p>
- <p align="center">
-Construindo meu futuro com dados, código e propósito.
+𝐂𝐨𝐧𝐬𝐭𝐫𝐮𝐢𝐧𝐝𝐨 𝐦𝐞𝐮 𝐟𝐮𝐭𝐮𝐫𝐨 𝐜𝐨𝐦 𝐝𝐚𝐝𝐨𝐬, 𝐜ó𝐝𝐢𝐠𝐨 𝐞 𝐩𝐫𝐨𝐩ó𝐬𝐢𝐭𝐨.📊
 </p>
+
 
 ---
 
