@@ -17,7 +17,7 @@ Analista de Dados com experiência prática em projetos reais, atuando do tratam
 
 ---
 
-### 🛠️ Dados & Análise
+###  Dados & Análise
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
@@ -28,7 +28,7 @@ Analista de Dados com experiência prática em projetos reais, atuando do tratam
   <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" width="45" title="Excel"/>
 </p>
 
-### 🗄️ Banco de Dados
+###  Banco de Dados
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
@@ -36,7 +36,7 @@ Analista de Dados com experiência prática em projetos reais, atuando do tratam
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
 </p>
 
-### ☁️ Cloud & Ferramentas
+###  Cloud & Ferramentas
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" title="AWS"/>
