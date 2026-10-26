@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,100:ff69b4&text=Isadora%20Militão&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Analista%20de%20Dados%20|%20Python%20•%20SQL%20•%20Power%20BI%20•%20ETL&descAlignY=60&descSize=18"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,100:ff69b4&text=Isadora%20Militão&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20|%20Python%20•%20SQL%20•%20Power%20BI%20•%20IA&descAlignY=60&descSize=18"/>
 
 <p align="center">
   <a href="https://linkedin.com/in/isadora-cmn">
@@ -12,12 +12,12 @@
 ---
 
 <p align="center">
-Analista de Dados com experiência prática em projetos reais, atuando do tratamento e modelagem até a entrega de dashboards usados em decisões estratégicas. Técnica em Desenvolvimento de Sistemas pelo SENAI e graduanda em Ciência de Dados na Univesp.
+Analista de Dados apaixonada por Data Science e IA, transformando dados complexos em inteligência de negócio. Técnica em Desenvolvimento de Sistemas pelo SENAI e graduanda em Ciência de Dados na Univesp, com experiência em projetos reais do tratamento até dashboards estratégicos.
 </p>
 
 ---
 
-###  Dados & Análise
+### Data & Analytics
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
@@ -28,7 +28,7 @@ Analista de Dados com experiência prática em projetos reais, atuando do tratam
   <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" width="45" title="Excel"/>
 </p>
 
-###  Banco de Dados
+### Databases
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
@@ -36,13 +36,20 @@ Analista de Dados com experiência prática em projetos reais, atuando do tratam
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
 </p>
 
-###  Cloud & Ferramentas
+### Machine Learning & IA
+
+<p align="left">
+  <img src="https://huggingface.co/favicon.ico" width="45" title="Hugging Face"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" title="Streamlit"/>
+</p>
+
+### Cloud & Development Tools
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" title="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45" title="PyCharm"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" width="45" title="Insomnia"/>
 </p>
 
 ---
