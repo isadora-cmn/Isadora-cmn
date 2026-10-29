@@ -36,12 +36,6 @@ Analista de Dados apaixonada por Data Science e IA, transformando dados complexo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
 </p>
 
-### Machine Learning & IA
-
-<p align="left">
-  <img src="https://huggingface.co/favicon.ico" width="45" title="Hugging Face"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" title="Streamlit"/>
-</p>
 
 ### Cloud & Development Tools
 
