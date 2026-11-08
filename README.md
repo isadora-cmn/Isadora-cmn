@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-Analista de Dados apaixonada por Data Science e IA, transformando dados complexos em inteligência de negócio. Técnica em Desenvolvimento de Sistemas pelo SENAI e graduanda em Ciência de Dados na Univesp, com experiência em projetos reais do tratamento até dashboards estratégicos.
+Apaixonada por Dados e IA, transformando dados complexos em inteligência de negócio. Técnica em Desenvolvimento de Sistemas pelo SENAI e graduanda em Ciência de Dados na Univesp, com experiência em projetos reais do tratamento até dashboards estratégicos.
 </p>
 
 ---
