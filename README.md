@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,100:ff69b4&text=Isadora%20Militão&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Automation%20Developer&descAlignY=60&descSize=18"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,100:ff69b4&text=Isadora%20Militão&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer&descAlignY=60&descSize=18"/>
 
 <p align="center">
   <a href="https://linkedin.com/in/isadora-cmn">
