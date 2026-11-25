@@ -44,6 +44,7 @@ Unindo dados, código e IA, estou construindo uma carreira com foco em <b>AI Eng
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" title="SQL Server"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
+  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="45" title="Supabase"/>
 </p>
 
 
